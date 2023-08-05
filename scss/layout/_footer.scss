@@ -1,0 +1,15 @@
+.footer {
+}
+.footer__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-left {
+  color: $silver-color;
+  line-height: 1.62;
+  font-weight: 700;
+}
+.footer__container p {
+  color: $silver-color;
+}

@@ -1,0 +1,85 @@
+main {
+  flex-grow: 1;
+}
+
+.main {
+}
+.main__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero__title {
+  width: 44.5rem;
+  height: 31.2rem;
+}
+.hero__title__text {
+  margin-bottom: 2.4rem;
+}
+.hero__text {
+  margin-bottom: 5.6rem;
+  color: $silver-color;
+  font-weight: 500;
+  line-height: 1.44;
+  width: 44.5rem;
+  font-size: 1.8rem;
+}
+.main__left {
+}
+.btn {
+}
+.btn-oronge {
+  color: $white-color;
+}
+.main__ridth {
+  color: $silver-color;
+}
+.btn-dark {
+}
+.main__image {
+}
+.main__images {
+}
+.main__images {
+}
+
+.main__container {
+  display: flex;
+  justify-content: space-between;
+  gap: 4.4rem;
+  margin-top: 5rem;
+  margin-bottom: 16.8rem;
+}
+.main__title {
+  width: 25.5rem;
+  height: 26.6rem;
+}
+.main__title-text {
+  width: 25.5rem;
+  height: 10.8rem;
+  margin-bottom: 2.7rem;
+}
+.main__text {
+  color: $silver-color;
+}
+.main__bottom {
+  display: flex;
+  gap: 3rem;
+}
+.main__bottom-content {
+  margin-bottom: 12.8rem;
+}
+.main__bottom-image {
+  margin-bottom: 4.8rem;
+}
+.main__bottom__title {
+  width: 25.5rem;
+  margin-bottom: 2.5rem;
+}
+.main__title__text {
+  width: 25.5rem;
+  font-weight: 500;
+  line-height: 1.62;
+  color: $silver-color;
+}
